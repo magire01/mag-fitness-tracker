@@ -2,8 +2,8 @@
 
 [link to deployed](https://mag-fitness-tracker.herokuapp.com/)
 
-![mainScreen](./Assets/screen1.png)
-![mainScreen](./Assets/screen2.png)
+![mainScreen](.public/Assets/screen1.png)
+![mainScreen](.public/Assets/screen2.png)
 <br>
 <br>
 <br>
